@@ -12,6 +12,7 @@
 
 - ROC
   - Graphs that plots (x,y) (False Posititve Rate, True Positive rate)
+  - Helps determine the best threshold for, say, Logistics Regression. Pbese vs. Not Obese. INfected vs. Not INfected
 - AUC (Area Under the Curve)
   - Larger AUC = better ML algorithm
   - If Losistics Regression AUC > Random Forest AUC, then we will pick Logistics Regression
