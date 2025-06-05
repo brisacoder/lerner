@@ -15,7 +15,7 @@ import pandas as pd
 # --------------------------------------------------------------------------------
 
 
-def get_connection(host: str | None, user: str | None, password: str):
+def get_connection(host: str | None, user: str | None, password: str | None):
     """
     Establish and return a MySQL connection.
     Replace the arguments with your own credentials.
