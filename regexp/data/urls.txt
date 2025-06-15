@@ -1,0 +1,6 @@
+abc def ghi http://cisco.com/ abc def ghi
+abc def ghi http://cisco.com/foo.html abc def ghi
+abc def ghi http://cisco.com:80/foo/bar.html abc def ghi
+abc def ghi https://cisco.com:443/whatever abc def ghi
+abc def ghi https://cisco.com:8080/gateway/stuff.html abc def ghi
+abc def ghi https://faceboom.com:1234/gateway/stuff.html abc def ghi
